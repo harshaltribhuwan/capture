@@ -1,4 +1,4 @@
 # Capture Portfolio
 
 
-[Lets go to Blog Website](https://capture-harshal.netlify.app/)
+[Lets go to Capture Portfolio](https://capture-harshal.netlify.app/)
